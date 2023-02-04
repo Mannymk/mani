@@ -1,0 +1,9 @@
+body{
+    background-color: #aa66cc ;
+}
+
+.border{
+    background-color: #9933CC;
+    border: 1px solid whitesmoke;
+    color: white;
+}
